@@ -1,4 +1,4 @@
-require 'Bike'
+require 'bike'
 
 describe Bike do
     it 'it should check whether a bike is working or not' do
